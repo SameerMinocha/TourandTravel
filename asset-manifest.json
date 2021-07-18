@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TourandTravel/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/TourandTravel/static/js/main.de511b16.chunk.js",
+    "main.js.map": "/TourandTravel/static/js/main.de511b16.chunk.js.map",
+    "runtime-main.js": "/TourandTravel/static/js/runtime-main.5e6bbb01.js",
+    "runtime-main.js.map": "/TourandTravel/static/js/runtime-main.5e6bbb01.js.map",
+    "static/js/2.4b6961d6.chunk.js": "/TourandTravel/static/js/2.4b6961d6.chunk.js",
+    "static/js/2.4b6961d6.chunk.js.map": "/TourandTravel/static/js/2.4b6961d6.chunk.js.map",
+    "static/js/3.332177c3.chunk.js": "/TourandTravel/static/js/3.332177c3.chunk.js",
+    "static/js/3.332177c3.chunk.js.map": "/TourandTravel/static/js/3.332177c3.chunk.js.map",
+    "index.html": "/TourandTravel/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/TourandTravel/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.4b6961d6.chunk.js.LICENSE.txt": "/TourandTravel/static/js/2.4b6961d6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e6bbb01.js",
+    "static/js/2.4b6961d6.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.de511b16.chunk.js"
+  ]
+}
